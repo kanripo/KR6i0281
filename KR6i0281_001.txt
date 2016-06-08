@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:04.200550
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:12
 #+TITLE: 佛說金剛三昧本性清淨不壞不滅經
 #+PROPERTY: CBETA_ID T15n0644
 #+PROPERTY: ID KR6i0281
