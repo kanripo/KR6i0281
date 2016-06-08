@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:04.200550
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:12
 #+TITLE: 佛說金剛三昧本性清淨不壞不滅經
 #+PROPERTY: CBETA_ID T15n0644
 #+PROPERTY: ID KR6i0281
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 644
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0281_T_000-0697a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0281_T_001-0697a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.644¶
-
- 《佛說金剛三昧本性清淨不壞不¶
+No. 644¶
+《佛說金剛三昧本性清淨不壞不¶
 滅經》¶
 ¶
 失譯經人名今附三秦錄¶
@@ -82,8 +81,7 @@ No.644¶
 薩如八日月，四地菩薩如九日月，五地菩¶
 薩如十日月，六地菩薩如十一日月，七地菩¶
 薩如十二日月，八地菩薩如十三日月，九地¶
-菩薩如十四日月，十地菩薩如十五日月，圓¶
-滿可觀明相具足，其心淡泊安住不動，不¶
+菩薩如十四日月，十地菩薩如十五日月，圓滿可觀明相具足，其心淡泊安住不動，不¶
 沒不退住首楞嚴三昧。菩薩住首楞嚴三昧¶
 已，如月天子十寶為宮，生十寶樹，月精摩尼¶
 以為樹果。此珠力故，月天子宮行閻浮提普¶
